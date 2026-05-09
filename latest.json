@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "ffmpeg.dll + userData 경로 검출 fix\n\n자동 업데이트 기능 추가 — 다음 패치부터는 앱 안에서 자동으로 업데이트 가능",
+  "pub_date": "2026-05-09T13:06:54Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHJLT0pud0MvZ1k2R2pLY3pXSDhnTHcyVEZhK1oxUjlJc3dKYzY1cXFtR0REUzZEYVdOTnlMM2pGMDF5ZEdSK2d3NEVwbTNwNm9OVnB1Z0xTbWh3dmJ2a0JlcXQ1YlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMxOTU1CWZpbGU6SmFqYVdhc2gg7KeE64uoXzAuMS4xX3g2NC1zZXR1cC5leGUKTzk5a1g4Rzg4Zk4rVWRmcXlvKzlXOG9uZVVmd0NNdUZQbzg1WFpHdk1qUHhtb2dHaWxEakdwWW9YMmtpWjBYNTJQQUFoQ01GTkZHOS9DcW9FM1FXQ3c9PQo=",
+      "url": "https://api.github.com/repos/nice2209/jajawash-doctor-releases/releases/assets/416016063"
+    }
+  }
+}

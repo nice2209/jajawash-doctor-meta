@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "ffmpeg.dll + userData 경로 검출 fix\n\n자동 업데이트 기능 추가 — 다음 패치부터는 앱 안에서 자동으로 업데이트 가능",
-  "pub_date": "2026-05-09T13:06:54Z",
+  "version": "0.1.2",
+  "notes": "D7 T11 — auto-update E2E test. v0.1.1과 기능 동일, 버전 번호만 0.1.2.",
+  "pub_date": "2026-05-09T13:14:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHJLT0pud0MvZ1k2R2pLY3pXSDhnTHcyVEZhK1oxUjlJc3dKYzY1cXFtR0REUzZEYVdOTnlMM2pGMDF5ZEdSK2d3NEVwbTNwNm9OVnB1Z0xTbWh3dmJ2a0JlcXQ1YlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMxOTU1CWZpbGU6SmFqYVdhc2gg7KeE64uoXzAuMS4xX3g2NC1zZXR1cC5leGUKTzk5a1g4Rzg4Zk4rVWRmcXlvKzlXOG9uZVVmd0NNdUZQbzg1WFpHdk1qUHhtb2dHaWxEakdwWW9YMmtpWjBYNTJQQUFoQ01GTkZHOS9DcW9FM1FXQ3c9PQo=",
-      "url": "https://api.github.com/repos/nice2209/jajawash-doctor-releases/releases/assets/416016063"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHJLT0pud0MvZ1lOTjY1TFA0WngraDdsZHFidnZuNXZLWTFrdHoxajlOQ2RiSGl0M3N3NEVMSENIbW5LOGVnODFvdWcwTGhqU2pScWFLV25nQnpoam4vNXNxYzFMZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMyNDMyCWZpbGU6SmFqYVdhc2gg7KeE64uoXzAuMS4yX3g2NC1zZXR1cC5leGUKQXp4M3hWUm5WWG15Z2gzRFg2VXFjVGVybFhjT2VVMEZoQ1l5MGYybjNGVGMvNVNqNXAzUFl4T0U3eityOWJuOTJTeFJlem4zVk14WUJrcjNOQkpSQ3c9PQo=",
+      "url": "https://api.github.com/repos/nice2209/jajawash-doctor-releases/releases/assets/416018755"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "D7 T11 — auto-update E2E test. v0.1.1과 기능 동일, 버전 번호만 0.1.2.",
-  "pub_date": "2026-05-09T13:14:40Z",
+  "version": "0.1.3",
+  "notes": "VS Code 스타일 UI 재설계 — 트리 뷰 + 실시간 로그 콘솔 + 다크 테마 + 아이콘",
+  "pub_date": "2026-05-09T13:39:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHJLT0pud0MvZ1lOTjY1TFA0WngraDdsZHFidnZuNXZLWTFrdHoxajlOQ2RiSGl0M3N3NEVMSENIbW5LOGVnODFvdWcwTGhqU2pScWFLV25nQnpoam4vNXNxYzFMZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMyNDMyCWZpbGU6SmFqYVdhc2gg7KeE64uoXzAuMS4yX3g2NC1zZXR1cC5leGUKQXp4M3hWUm5WWG15Z2gzRFg2VXFjVGVybFhjT2VVMEZoQ1l5MGYybjNGVGMvNVNqNXAzUFl4T0U3eityOWJuOTJTeFJlem4zVk14WUJrcjNOQkpSQ3c9PQo=",
-      "url": "https://api.github.com/repos/nice2209/jajawash-doctor-releases/releases/assets/416018755"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHJLT0pud0MvZ1ladlU5TGVPZGx2amp1YTVRQml4VTN3VG1ocTd0aFVkNVIxZ2FMQldXTjRac1k1ai9rSUVIdlRIZFljUk4zTU1LV1Q5ZUI4YmdGNHJsbUFjbmwxL2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMzOTE2CWZpbGU6SmFqYVdhc2gg7KeE64uoXzAuMS4zX3g2NC1zZXR1cC5leGUKcGNGbFBLUnJwTENvcTkwYVdydmpOZ01lTnhFZlAvcVdqc2FQSFdSVjFGWjlFb1FtTUEwSC9FNU1iRUtCR0E5ZEJFUnBnaXB0anA0eWJwODZNcE56QVE9PQo=",
+      "url": "https://api.github.com/repos/nice2209/jajawash-doctor-releases/releases/assets/416028822"
     }
   }
 }

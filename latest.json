@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "수리(Repair) 기능 추가 — Defender 예외, PG 프로세스 정리, OCR 재시작, 캡처 정리, ffmpeg 안내",
-  "pub_date": "2026-05-11T09:01:08Z",
+  "version": "0.1.5",
+  "notes": "vendor-alpr-logs 진단 zip 포함 추가 — 번호판 인식 실패 원인 분석 가능",
+  "pub_date": "2026-05-12T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHJLT0pud0MvZ2JJbERGNEplbUR2Ti81WWV6UjJLZnMvYlgwSUxtemU5WHA0SC95L1lkZFNUeHQzNmZLZi8zbWJWekNWNzJPRjRQZS82RzhiVEFmaExPblFpNjgza3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDg5OTUzCWZpbGU6SmFqYVdhc2gg7KeE64uoXzAuMS40X3g2NC1zZXR1cC5leGUKek5pSUxkcVl6ZXFrdlU4UkVOejlTYmM4dFNEMUJ1Y0Zlc3FNODJSWHZ0T243WW9iN1YrN2loVmtMa3hsYzkzRm1vakpnNlBoZUx0RWxPS1U0N2xGQ2c9PQo=",
-      "url": "https://api.github.com/repos/nice2209/jajawash-doctor-releases/releases/assets/417298155"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHJLT0pud0MvZ1dFdllKYmZWQ1h5R3NPQ0E3enJCeUgzcE1WZFBMNGVpYzYwbUFxRHhpUlFMSWEzRGM3Ylp6ZFp4ajZmVHA3cnorZ1A2cHBlNXVMYURVV2pwK2xBL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTg1MzgzCWZpbGU6SmFqYVdhc2gg7KeE64uoXzAuMS41X3g2NC1zZXR1cC5leGUKbEk5VUtrQm9qaTNhUU5SQWFWQWt0SXo2MW9RVCt0dGJmRXBrWWxGZVoyZnloWHFIUExTVURhTWRSRS9hSmI0eUJnWTREL1NhU0o4RERmWlZFdkh2Q0E9PQo=",
+      "url": "https://api.github.com/repos/nice2209/jajawash-doctor-releases/releases/assets/418314389"
     }
   }
 }
